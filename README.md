@@ -1,4 +1,5 @@
 Mobile Banking System
+
 A simple Mobile Banking application developed in C that simulates basic banking operations. Designed as a console-based program, this project allows users to register, login, and perform essential banking transactions with a user-friendly interface.
 
 Features
